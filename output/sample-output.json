@@ -1,0 +1,131 @@
+{
+  "emails": [
+    {
+      "value": "m******8@gmail.com",
+      "classification": "external"
+    },
+    {
+      "value": "j******o@alueducation.com",
+      "classification": "ALU official"
+    },
+    {
+      "value": "a*********2@alumni.alueducation.com",
+      "classification": "ALU alumni"
+    },
+    {
+      "value": "p*********t@si.alueducation.com",
+      "classification": "ALU SI"
+    },
+    {
+      "value": "u************r@tempmail.xyz",
+      "classification": "external"
+    },
+    {
+      "value": "g*****k@yahoo.com",
+      "classification": "external"
+    },
+    {
+      "value": "f******a@alumni.alueducation.com",
+      "classification": "ALU alumni"
+    },
+    {
+      "value": "d***************t@alueducation.com",
+      "classification": "ALU official"
+    }
+  ],
+  "urls": [
+    {
+      "value": "https://learn.alueducation.com/dashboard?user=jotieno&ref=email",
+      "secure": true,
+      "protocol_specified": true
+    },
+    {
+      "value": "http://learn.alueducation.com",
+      "secure": false,
+      "protocol_specified": true
+    },
+    {
+      "value": "www.myshop-example.co.ke",
+      "secure": false,
+      "protocol_specified": false
+    },
+    {
+      "value": "https://myshop-example.co.ke/orders/889",
+      "secure": true,
+      "protocol_specified": true
+    },
+    {
+      "value": "http://fatuma-writes.blog/hackathon-recap",
+      "secure": false,
+      "protocol_specified": true
+    },
+    {
+      "value": "www.alu-partners.example",
+      "secure": false,
+      "protocol_specified": false
+    }
+  ],
+  "phone_numbers": [
+    {
+      "value": "+1 (415) 555-0198"
+    },
+    {
+      "value": "415.555.0231"
+    },
+    {
+      "value": "0722-334-556"
+    },
+    {
+      "value": "+254 722 334 556"
+    },
+    {
+      "value": "0733 221 445"
+    },
+    {
+      "value": "+254-733-221-445"
+    }
+  ],
+  "credit_cards": [
+    {
+      "value": "**** **** **** 6467",
+      "luhn_valid": true
+    },
+    {
+      "value": "**** **** **** 0004",
+      "luhn_valid": true
+    },
+    {
+      "value": "**** **** **** 9424",
+      "luhn_valid": true
+    },
+    {
+      "value": "**** **** **** 0005",
+      "luhn_valid": true
+    }
+  ],
+  "hashtags": [
+    "#ALU",
+    "#ALU_Procurement",
+    "#Q3Budget",
+    "#AluHackathon2026"
+  ],
+  "times": [
+    "09:15am",
+    "14:30",
+    "9:47 AM",
+    "10:03am",
+    "17:00",
+    "10:22 AM",
+    "11:11am",
+    "23:59",
+    "12:00pm",
+    "1:45 PM",
+    "16:30",
+    "4:30 PM",
+    "2:30pm"
+  ],
+  "security": {
+    "lines_scanned": 58,
+    "lines_flagged_and_skipped": 4
+  }
+}
